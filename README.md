@@ -78,13 +78,6 @@ The server will start Running on
 + http://localhost:3000/
 
 
-## Author
-
-| Author                | Profile Link                                       |
-| --------------------- | :------------------------------------------------- |
-| **Guru HariHaraun N** | **[Guru Roxz](https://github.com/guruhariharaun)** |
-
-
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used.
